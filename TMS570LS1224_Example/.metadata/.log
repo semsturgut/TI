@@ -1,0 +1,159 @@
+!SESSION 2019-08-02 12:07:42.440 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects newProject -ccs.clean
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects newProject -ccs.clean
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:07:43.706
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:07:43.707
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+
+!ENTRY org.eclipse.core.jobs 2 2 2019-08-02 12:07:47.422
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.ti.ccstudio.devicemodel.DeviceModelLoader$InitializationJob$3
+!SESSION 2019-08-02 12:08:36.383 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects newProject -ccs.configuration Debug
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects newProject -ccs.configuration Debug
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:08:37.337
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:08:37.338
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 12:10:03.460 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects newProject -ccs.configuration Debug
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects newProject -ccs.configuration Debug
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:10:04.456
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:10:04.457
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 12:10:27.512 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example -ccs.configuration Debug
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example -ccs.configuration Debug
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:10:28.491
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:10:28.492
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 12:13:35.978 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example -ccs.configuration Debug
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example -ccs.configuration Debug
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:13:36.923
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:13:36.924
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 12:24:32.546 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects --ccs.autoImport TMS570LS1224_Example -ccs.configuration Debug
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects --ccs.autoImport TMS570LS1224_Example -ccs.configuration Debug
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:24:33.668
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:24:33.670
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 12:25:25.310 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example --ccs.autoImport -ccs.configuration Debug
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example --ccs.autoImport -ccs.configuration Debug
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:25:26.249
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:25:26.250
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 12:37:35.925 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectImport -ccs.location . -options
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectImport -ccs.location . -options
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:37:36.967
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:37:36.968
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 12:38:20.946 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectImport -ccs.location /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -options
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectImport -ccs.location /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -options
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:38:21.867
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:38:21.870
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 12:38:36.617 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectImport -ccs.location /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectImport -ccs.location /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:38:37.541
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 12:38:37.543
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 18:42:43.350 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example -ccs.configuration Debug
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example -ccs.configuration Debug
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 18:42:44.521
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 18:42:44.523
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
+!SESSION 2019-08-02 18:43:04.882 -----------------------------------------------
+eclipse.buildId=4.8.0.I20180611-0500
+java.version=1.8.0_112
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product com.ti.ccstudio.branding.product -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example -ccs.configuration Debug
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product com.ti.ccstudio.branding.product -data /Users/sems/Documents/Workspace/mbed/ARM/TI/TMS570LS1224_Example/ -application com.ti.ccstudio.apps.projectBuild -ccs.projects TMS570LS1224_Example -ccs.configuration Debug
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 18:43:05.911
+!MESSAGE path=ccs_base/DebugServer
+
+!ENTRY com.ti.common.core 1 0 2019-08-02 18:43:05.913
+!MESSAGE debugServerDir=/Applications/ti/ccs910/ccs/ccs_base/DebugServer
